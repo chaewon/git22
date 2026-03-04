@@ -2,4 +2,4 @@ team: JS
 
 manager: Lee
 
-members: Mi
+members: Choi
