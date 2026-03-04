@@ -2,6 +2,11 @@ team: React
 
 manager: Min
 
+members: June
+team: React
+
+manager: Min
+
 members: Ji
 team: React
 

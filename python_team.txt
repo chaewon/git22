@@ -2,4 +2,8 @@ team: Python
 
 manager: Lee
 
+<<<<<<< HEAD
 members: Juli
+=======
+members: Jack
+>>>>>>> conflict2
